@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="QLDSV_TC.Properties.Settings.QLDSV_TCConnectionString"
+            connectionString="Data Source=DESKTOP-00M9PPR\SERVER1;Initial Catalog=QLDSV_TC;User ID=sa;Password = 123456"
+            providerName="System.Data.SqlClient" />
+        <add name="QLDSV_TC.Properties.Settings.QLDSV_TCConnectionString1"
+            connectionString="Data Source=DESKTOP-00M9PPR\SERVER1;Initial Catalog=QLDSV_TC;User ID=VTT;Password = 123456"
+            providerName="System.Data.SqlClient" />
+        <add name="QLDSV_TC.Properties.Settings.QLDSV_TCConnectionString2"
+            connectionString="Data Source=DESKTOP-00M9PPR\SERVER3;Initial Catalog=QLDSV_TC;User ID=sa;Password=123456"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
