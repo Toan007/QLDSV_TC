@@ -95,3 +95,4 @@ Lưu ý:
 - Form học phí chỉ có 1 lệnh thay đổi dữ liệu nhưng dùng Transaction là dư thừa
 - Đầy đủ chức năng, chạy đúng nhưng chưa tối ưu (Có thể còn bug chưa tìm ra)
 - Báo cáo học phí - in tiền chữ: cách viết SP gọi UDF chưa hay (Chạy đúng), có thể viết hàm trực tiếp trên project thay vì viết SP và UDF
+- Học chắc lý thuyết để được điểm cao (_Thầy dí chạy không kịp ^-^)
