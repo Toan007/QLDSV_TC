@@ -90,4 +90,8 @@ Ghi chú: Sinh viên tự kiểm tra các ràng buộc có thể có khi viết 
    	- Chỉ làm việc với các sinh viên còn đang học.
 
 HẾT 
-
+Lưu ý:
+- Cách viết SP đã tối ưu nhưng chưa triệt để
+- Form học phí chỉ có 1 lệnh thay đổi dữ liệu nhưng dùng Transaction là dư thừa
+- Đầy đủ chức năng, chạy đúng nhưng chưa tối ưu (Có thể còn bug chưa tìm ra)
+- Báo cáo học phí - in tiền chữ: cách viết SP gọi UDF chưa hay (Chạy đúng), có thể viết hàm trực tiếp trên project thay vì viết SP và UDF
