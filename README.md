@@ -90,6 +90,7 @@ Ghi chú: Sinh viên tự kiểm tra các ràng buộc có thể có khi viết 
    	- Chỉ làm việc với các sinh viên còn đang học.
 
 HẾT 
+
 Lưu ý:
 - Cách viết SP đã tối ưu nhưng chưa triệt để
 - Form học phí chỉ có 1 lệnh thay đổi dữ liệu nhưng dùng Transaction là dư thừa
